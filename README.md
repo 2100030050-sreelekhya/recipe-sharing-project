@@ -1,1 +1,2 @@
-# recipe-sharing-project
+# React + Vite
+![logo](bhojan-app.png)
